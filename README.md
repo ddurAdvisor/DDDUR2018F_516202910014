@@ -21,7 +21,7 @@
 3-交大校园昼夜温差较大，同学出行需选择合适的衣物和出行方式
 
 ### 图片信息
-!(https://github.com/hujunbao718/DDDUR2018F_516202910014/blob/master/1.png)
+![1](https://github.com/hujunbao718/DDDUR2018F_516202910014/blob/master/1.png)
 
 !
 !
